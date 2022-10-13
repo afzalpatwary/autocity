@@ -1,0 +1,168 @@
+@font-face {
+    font-family: 'Conthrax';
+    src: url('ConthraxBk-Italic.eot');
+    src: url('ConthraxBk-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxBk-Italic.woff2') format('woff2'),
+        url('ConthraxBk-Italic.woff') format('woff'),
+        url('ConthraxBk-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax';
+    src: url('ConthraxRg-BoldItalic.eot');
+    src: url('ConthraxRg-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxRg-BoldItalic.woff2') format('woff2'),
+        url('ConthraxRg-BoldItalic.woff') format('woff'),
+        url('ConthraxRg-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax';
+    src: url('ConthraxRg-Bold.eot');
+    src: url('ConthraxRg-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxRg-Bold.woff2') format('woff2'),
+        url('ConthraxRg-Bold.woff') format('woff'),
+        url('ConthraxRg-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax';
+    src: url('ConthraxBk-Regular.eot');
+    src: url('ConthraxBk-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxBk-Regular.woff2') format('woff2'),
+        url('ConthraxBk-Regular.woff') format('woff'),
+        url('ConthraxBk-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax El';
+    src: url('ConthraxEl-Italic.eot');
+    src: url('ConthraxEl-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxEl-Italic.woff2') format('woff2'),
+        url('ConthraxEl-Italic.woff') format('woff'),
+        url('ConthraxEl-Italic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax';
+    src: url('ConthraxLt-Regular.eot');
+    src: url('ConthraxLt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxLt-Regular.woff2') format('woff2'),
+        url('ConthraxLt-Regular.woff') format('woff'),
+        url('ConthraxLt-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax Hv';
+    src: url('ConthraxHv-Italic.eot');
+    src: url('ConthraxHv-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxHv-Italic.woff2') format('woff2'),
+        url('ConthraxHv-Italic.woff') format('woff'),
+        url('ConthraxHv-Italic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax';
+    src: url('ConthraxEl-Regular.eot');
+    src: url('ConthraxEl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxEl-Regular.woff2') format('woff2'),
+        url('ConthraxEl-Regular.woff') format('woff'),
+        url('ConthraxEl-Regular.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax Lt';
+    src: url('ConthraxLt-Italic.eot');
+    src: url('ConthraxLt-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxLt-Italic.woff2') format('woff2'),
+        url('ConthraxLt-Italic.woff') format('woff'),
+        url('ConthraxLt-Italic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax';
+    src: url('ConthraxRg-Regular.eot');
+    src: url('ConthraxRg-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxRg-Regular.woff2') format('woff2'),
+        url('ConthraxRg-Regular.woff') format('woff'),
+        url('ConthraxRg-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax Hv';
+    src: url('ConthraxHv-Regular.eot');
+    src: url('ConthraxHv-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxHv-Regular.woff2') format('woff2'),
+        url('ConthraxHv-Regular.woff') format('woff'),
+        url('ConthraxHv-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax';
+    src: url('ConthraxRg-Italic.eot');
+    src: url('ConthraxRg-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxRg-Italic.woff2') format('woff2'),
+        url('ConthraxRg-Italic.woff') format('woff'),
+        url('ConthraxRg-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax Sb';
+    src: url('ConthraxSb-Italic.eot');
+    src: url('ConthraxSb-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxSb-Italic.woff2') format('woff2'),
+        url('ConthraxSb-Italic.woff') format('woff'),
+        url('ConthraxSb-Italic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Conthrax';
+    src: url('ConthraxSb-Regular.eot');
+    src: url('ConthraxSb-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ConthraxSb-Regular.woff2') format('woff2'),
+        url('ConthraxSb-Regular.woff') format('woff'),
+        url('ConthraxSb-Regular.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

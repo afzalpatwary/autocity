@@ -1,0 +1,94 @@
+/**
+ * @Main responsive file for (Project Name)
+ * @project     - Project Name
+ * @created_at -
+ * @modified_by -
+ */
+
+
+// @media (max-width:1400px)
+@media (max-width:1600px) {
+    .banner {
+        .banner-intro {
+            .banner-title {
+                font-size: calc(3.5vw + 24px) !important;
+            }
+
+            .banner-sub-title {
+                font-size: calc(2vw + 16px) !important;
+            }
+        }
+    }
+}
+
+
+// @media (max-width:1200px)
+@media (max-width:1200px) {
+    .banner {
+        --bannerHeight: 600px;
+        min-height: var(--bannerHeight);
+
+        &.page-banner {
+            --bannerHeight: 400px;
+        }
+    }
+
+    .section-padding {
+        padding: 80px 0px;
+    }
+
+    .section-header {
+        .title {
+            font-size: calc(3.2vw + 24px) !important;
+        }
+
+        .sub-title {
+            font-size: 30px;
+        }
+
+        .short-desc {
+            font-size: 18px;
+        }
+    }
+}
+
+// @media (max-width:992px)
+@media (max-width:992px) {
+    .section-header {
+        .title {
+            font-size: calc(3.2vw + 16px) !important;
+        }
+        .sub-title {
+            font-size: 22px;
+        }
+    }
+}
+
+
+// @media (max-width:768px)
+@media (max-width:768px) {}
+
+
+// @media (max-width:576px)
+@media (max-width:576px) {
+
+    .benefits .benefits-item {
+        min-height: 165px;
+
+        .benefits-title {
+            font-size: 14px;
+        }
+    }
+
+    .categories .category-item {
+        min-height: 150px;
+
+        .category-img {
+            height: 75px;
+        }
+
+        .category-title {
+            font-size: 14px;
+        }
+    }
+}
